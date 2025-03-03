@@ -3,7 +3,7 @@ Migration -> Types -> Mappers -> Repositories -> Services -> Controllers -> Rout
 # Step 1:
 Remote: origin
 
-Branch: master
+Branch: main
 
 git pull
 
