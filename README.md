@@ -1,6 +1,6 @@
 # JavaScript
 
-Migration -> Types -> Mappers -> Repositories -> Services -> Controllers -> Routers -> Routes
+Migration -> Types -> Mappers -> Repositories -> Services -> Controllers -> Routes
 
 # Step 1:
 Remote: origin
